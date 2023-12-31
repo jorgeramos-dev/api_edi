@@ -1,4 +1,4 @@
-## 💻 Bot de Votação Corrida das Blogueiras
+## 💻 API Python para Cotação de Frete
 
 - Código de API desenvolvida em Python para enviar informações de Nota Fiscal a Frete Rápido.
 
